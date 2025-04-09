@@ -181,6 +181,12 @@ Output only JSON like this:
             return None
             
         return self.find_best_jobs(keywords_output, top_n)
+    
+    def get_all_jobs(self):
+        conn = sqlite3.connect(self.db_path)
+        df = pd.read_sql_query("SELECT * FROM job_analysis", conn)
+        conn.close()
+        return df
 
     def close(self):
         """Close the database connection"""
