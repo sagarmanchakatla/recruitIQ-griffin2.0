@@ -1,0 +1,103 @@
+Job Title,Category,Experience Level,Key Responsibilities,Technical Requirements,Preferred Qualifications,Soft Skills,Company Culture,Tech Stack,Salary Range,Location,Benefits,Application Process
+"Software Engineer (Full-Stack)","Engineering","Mid-Senior (3+ years)","- Develop scalable applications using Python/Java/JavaScript
+- Build RESTful APIs and microservices
+- Implement CI/CD pipelines
+- Optimize database performance","- Proficient in Python/Java/Node.js
+- Experience with Django/Spring Boot/React
+- Knowledge of Docker/Kubernetes
+- AWS/GCP cloud services","- Master's degree in CS
+- Certifications in cloud technologies
+- Open-source contributions","- Problem-solving
+- Team collaboration
+- Agile methodology","Innovative, fast-paced environment with hackathons and tech talks","Python, JavaScript, React, AWS, PostgreSQL","$100,000 - $150,000 + equity","Remote/Hybrid (SF, NYC)","- Health insurance
+- Learning stipend
+- Flexible PTO","1. Technical screening
+2. Take-home assignment
+3. Onsite interview"
+"Data Scientist (AI/ML)","Data Science","Senior (5+ years)","- Develop predictive models
+- Clean/analyze large datasets
+- Deploy ML solutions
+- Create data visualizations","- Python/R, SQL
+- TensorFlow/PyTorch
+- Spark/Hadoop
+- Tableau/Power BI","- PhD in related field
+- Published research papers
+- Kaggle competitions","- Analytical thinking
+- Business acumen
+- Storytelling with data","Data-driven culture with weekly research seminars","Python, SQL, Spark, AWS SageMaker","$120,000 - $180,000","New York, NY","- Annual bonus
+- Conference budget
+- Gym membership","1. Case study
+2. Technical interview
+3. Team fit"
+"DevOps Engineer","Infrastructure","Mid-Level (2-4 years)","- Automate deployments
+- Manage cloud infrastructure
+- Implement security protocols
+- Monitor system performance","- AWS/Azure/GCP
+- Terraform/Ansible
+- Docker/Kubernetes
+- CI/CD tools","- Certified Cloud Architect
+- Site reliability experience
+- Network security knowledge","- Detail-oriented
+- Proactive mindset
+- Cross-team collaboration","DevOps-first culture with blameless postmortems","AWS, Kubernetes, Terraform, Jenkins","$110,000 - $160,000","Remote","- Stock options
+- Home office setup
+- Unlimited cloud credits","1. Architecture review
+2. Live debugging session"
+"Cybersecurity Analyst","Security","Junior-Mid (1-3 years)","- Monitor security alerts
+- Conduct vulnerability scans
+- Implement security policies
+- Incident response","- SIEM tools
+- Firewall/IDS/IPS
+- Pen testing frameworks
+- Compliance standards","- CISSP/CEH certified
+- Threat hunting experience
+- Forensics knowledge","- Risk assessment
+- Crisis management
+- Ethical mindset","Security-first culture with red team/blue team exercises","Splunk, Metasploit, Wireshark, NIST","$90,000 - $130,000","Austin, TX","- Security training budget
+- Bug bounty program
+- 401(k) matching","1. Technical assessment
+2. Security scenario test"
+"AI Research Scientist","Research","Senior (PhD + 2 yrs)","- Develop novel algorithms
+- Publish research papers
+- Optimize model performance
+- Mentor junior researchers","- Deep learning frameworks
+- Mathematical optimization
+- Distributed computing
+- CUDA programming","- NeurIPS/ICML publications
+- Patent filings
+- Teaching experience","- Scientific curiosity
+- Peer review skills
+- Technical writing","Academic-style environment with journal clubs","PyTorch, TensorFlow, RLlib, AWS","$140,000 - $210,000","Boston, MA","- Research budget
+- Patent bonuses
+- Sabbatical options","1. Paper review
+2. Research presentation
+3. Whiteboard session"
+"Blockchain Developer","Web3","Mid-Level (2-5 years)","- Develop smart contracts
+- Audit blockchain protocols
+- Optimize consensus algorithms
+- Integrate Web3 APIs","- Solidity/Rust
+- Ethereum/Hyperledger
+- Cryptography
+- Distributed systems","- DeFi project experience
+- Cryptography research
+- Open-source blockchain contributions","- Innovative thinking
+- Security focus
+- Community engagement","Decentralized culture with DAO participation","Solidity, Ethereum, IPFS, Zero-Knowledge Proofs","$130,000 - $190,000 + tokens","Remote Global","- Token equity
+- Crypto wallet stipend
+- Conference travel","1. Code audit
+2. Smart contract challenge"
+"UX/UI Designer","Product","Junior-Mid (1-4 years)","- Create wireframes/prototypes
+- Conduct user research
+- Design systems
+- Accessibility audits","- Figma/Sketch
+- User testing tools
+- HTML/CSS basics
+- Analytics platforms","- Motion design skills
+- Front-end dev experience
+- Psychology background","- Empathy
+- Visual storytelling
+- User advocacy","Design-centric culture with weekly critiques","Figma, Adobe Suite, Hotjar, Webflow","$85,000 - $125,000","Portland, OR","- Design software budget
+- Wellness stipend
+- Flexible hours","1. Portfolio review
+2. Design challenge
+3. User interview simulation"
